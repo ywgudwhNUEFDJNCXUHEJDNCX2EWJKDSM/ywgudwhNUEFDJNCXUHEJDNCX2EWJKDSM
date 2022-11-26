@@ -1,0 +1,20 @@
+select
+{
+    width: 5px;
+}
+h1
+{
+    font-weight: bold;
+    font-size: 45px;
+}
+.button
+{
+    margin-top: 150px;
+    border: 2px dotted black;
+    width: 400px;
+    height: 100px;
+    border-radius: 15px;
+}
+body{
+    background-color:orchid;
+}
